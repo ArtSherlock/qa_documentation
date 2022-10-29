@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<people>
+  <man>
+    <id>131301</id>
+    <fullName>Ivan Dzhonsoniuk</fullName>
+    <city>Konotop</city>
+    <adress>
+      <street>Heroiv Nebesnoyi sotni</street>
+      <number>13</number>
+      <room>22</room>
+    </adress>
+    <contacts>
+      <phone>380501234567</phone>
+      <email>qwerty@danu.na</email>
+      <skype>qwerty@danu.na</skype>
+    </contacts>
+  </man>
+  <man>
+    <id>131302</id>
+    <fullName>Vasyl Nepyipyvo</fullName>
+    <city>Poltava</city>
+    <adress>
+      <street>Lesi Ukrayinky</street>
+      <number>7</number>
+      <room>23</room>
+    </adress>
+    <contacts>
+      <phone>380501112222</phone>
+      <email>vasyl@ukr.net</email>
+      <skype>vasyl@ukr.net</skype>
+    </contacts>
+  </man>
+  <man>
+    <id>131303</id>
+    <fullName>Svyatoslav Borshch</fullName>
+    <city>Kolomyia</city>
+    <adress>
+      <street>Stepana Bandery</street>
+      <number>25</number>
+      <room>40</room>
+    </adress>
+    <contacts>
+      <phone>380505555555</phone>
+      <email>borshch@online.ua</email>
+      <skype>borshch@online.ua</skype>
+    </contacts>
+  </man>
+  <man>
+    <id>131304</id>
+    <fullName>Oksana Smetana</fullName>
+    <city>Khotyn</city>
+    <adress>
+      <street>Ivana Franka</street>
+      <number>5</number>
+      <room>33</room>
+    </adress>
+    <contacts>
+      <phone>380507894562</phone>
+      <email>smetana_do_borshchu@online.ua</email>
+      <skype>smetana_do_borshchu@online.ua</skype>
+    </contacts>
+  </man>
+</people>

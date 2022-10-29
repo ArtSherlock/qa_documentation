@@ -1,0 +1,83 @@
+{
+"people" : [
+  {
+  "id" : 131301,
+  "fullName" : "Ivan Dzhonsoniuk",
+  "city": "Konotop",
+  "adress" : [
+    {
+      "street" : "Heroiv Nebesnoyi sotni",
+      "number" : 13,
+      "room" : 22
+    }
+  ],
+  "contacts" : [
+    {
+      "phone" : 380501234567,
+      "email" : "qwerty@danu.na",
+      "skype" : "qwerty@danu.na"
+    }
+  ]
+  },
+
+  {
+  "id" : 131302,
+  "fullName" : "Vasyl Nepyipyvo",
+  "city": "Poltava",
+  "adress" : [
+    {
+      "street" : "Lesi Ukrayinky",
+      "number" : 7,
+      "room" : 23
+    }
+  ],
+  "contacts" : [
+    {
+      "phone" : 380501112222,
+      "email" : "vasyl@ukr.net",
+      "skype" : "vasyl@ukr.net"
+    }
+  ]
+  },
+
+  {
+  "id" : 131303,
+  "fullName" : "Svyatoslav Borshch",
+  "city": "Kolomyia",
+  "adress" : [
+    {
+      "street" : "Stepana Bandery",
+      "number" : 25,
+      "room" : 40
+    }
+  ],
+  "contacts" : [
+    {
+      "phone" : 380505555555,
+      "email" : "borshch@online.ua",
+      "skype" : "borshch@online.ua"
+    }
+  ]
+  },
+
+  {
+  "id" : 131304,
+  "fullName" : "Oksana Smetana",
+  "city": "Khotyn",
+  "adress" : [
+    {
+      "street" : "Ivana Franka",
+      "number" : 5,
+      "room" : 33
+    }
+  ],
+  "contacts" : [
+    {
+      "phone" : 380507894562,
+      "email" : "smetana_do_borshchu@online.ua",
+      "skype" : "smetana_do_borshchu@online.ua"
+    }
+  ]
+  }
+]
+}
